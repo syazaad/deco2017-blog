@@ -11,8 +11,7 @@ tags:
 ---
 I will be writing my stuffs there for me to look back and keep track ! <3
 
-weekly posts: 
-./week_7
-./week_8
-./week_9
-./week_10 
+Weekly posts:
+
+- [Week 7: Deciding on Project](week_7.html)
+- [Week 8: Developing Wireframes](week_8.html)
