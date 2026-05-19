@@ -16,3 +16,6 @@ Weekly posts:
 - [Week 7: Deciding on Project](week_7.html)
 - [Week 8: Developing Wireframes](week_8.html)
 - [Week 9: Building the Trail Database](week_9.html)
+- [Week 10: Development and connecting database](week_10.html)
+- [Week 11: API integration and user testing](week_11.html)
+
