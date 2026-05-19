@@ -17,9 +17,9 @@ I also reflected on how APIs introduce additional responsibilities in developmen
 
 Another major focus this week was planning user testing and evaluation. Since the main interaction flow of the application is:
 
--explore trails
--select a trail
--create a community hike
+- explore trails
+- select a trail
+- create a community hike
 
 I began thinking about how this flow could be tested with users. One evaluation goal is to observe whether users can move through these steps without confusion or unnecessary actions. If users struggle to locate buttons, understand page transitions or complete the hike creation form, it would indicate usability problems in the design.
 
